@@ -1,0 +1,5 @@
+python-telegram-bot==21.4
+motor==3.5.1
+pymongo[srv]==4.9.0
+python-dotenv==1.0.1
+shortuuid==1.0.11
